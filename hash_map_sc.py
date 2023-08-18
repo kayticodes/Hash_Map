@@ -1,9 +1,6 @@
-# Name: Catherine Potgieter
-# OSU Email: potgietc@oregonstate.edu
-# Course: CS261 - Data Structures
-# Assignment 6: HashMap
-# Due Date: Mar 13 at 11:59pm
-# Description: This file contains an implementation of a hash map. Given a skeleton code file I, the student, completed
+# Name: Catherine Martens
+# Email: potgietc@oregonstate.edu
+# Description: This file contains a seperate chaining implementation of a hash map. Given a skeleton code file I, the student, completed
 # the following methods - put(), get(), remove(), contains_key(), clear(), empty_buckets(), resize_table(), table_load()
 # and get_keys()
 
